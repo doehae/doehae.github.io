@@ -9,8 +9,7 @@
 title: doehaeのblog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  \"The fool doth think he is wise, but the wise man knows himself to be a fool.\"
-― William Shakespeare, As You Like It 
+  The fool doth think he is wise, but the wise man knows himself to be a fool.
 baseurl: " # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  doehae
