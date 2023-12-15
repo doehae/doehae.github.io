@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New post in 2023"
+title:  "1st post in 2023"
 date:   2023-01-16 12:18:00 +0200
 categories: update
 ---
