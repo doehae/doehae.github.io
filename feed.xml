@@ -3,12 +3,56 @@
     <title>fezzarr</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-01-30T18:00:45+01:00</updated>
+    <updated>2025-01-30T18:08:16+01:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>Gallery &lt;3</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/gallery-love.html"/>
+        <id>https://doehae.github.io/gallery-love.html</id>
+
+        <updated>2025-01-30T18:08:16+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div class="post__toc">
+    <h3>tst</h3>
+    <ul>
+      
+    </ul>
+  </div>
+  
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/3/gallery/2faced-cat.jpg" data-size="1080x1063">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/3/gallery/2faced-cat-thumbnail.jpg" height="709" width="720" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/3/gallery/cat-paws.jpg" data-size="1073x1280">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/3/gallery/cat-paws-thumbnail.jpg" height="859" width="720" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/3/gallery/blackie2.jpg" data-size="1919x2560">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/3/gallery/blackie2-thumbnail.jpg" height="961" width="720" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>zzz</title>
         <author>
