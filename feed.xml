@@ -3,7 +3,7 @@
     <title>fezzarr</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-01-30T18:14:12+01:00</updated>
+    <updated>2025-01-30T18:25:06+01:00</updated>
     <author>
         <name>zz</name>
     </author>
@@ -62,7 +62,15 @@
         <id>https://doehae.github.io/eonienei.html</id>
 
         <updated>2025-01-30T17:30:50+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    :) :( :) :( :) :(
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>:) :( :) :( :) :(</p>
+            ]]>
+        </content>
     </entry>
 </feed>
