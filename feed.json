@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://doehae.github.io/gallery-love.html",
-            "url": "https://doehae.github.io/gallery-love.html",
+            "id": "https://doehae.github.io/gallery-love/",
+            "url": "https://doehae.github.io/gallery-love/",
             "title": "Gallery",
             "content_html": "\n  <div class=\"post__toc\">\n    <h3>tst</h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://doehae.github.io/media/posts/3/gallery/2faced-cat.jpg\" data-size=\"1080x1063\">\n        <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/3/gallery/2faced-cat-thumbnail.jpg\" height=\"709\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://doehae.github.io/media/posts/3/gallery/cat-paws.jpg\" data-size=\"1073x1280\">\n        <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/3/gallery/cat-paws-thumbnail.jpg\" height=\"859\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://doehae.github.io/media/posts/3/gallery/blackie2.jpg\" data-size=\"1919x2560\">\n        <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/3/gallery/blackie2-thumbnail.jpg\" height=\"961\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    \n  </p>",
             "author": {
@@ -23,8 +23,8 @@
             "date_modified": "2025-01-30T18:26:44+01:00"
         },
         {
-            "id": "https://doehae.github.io/eonienei.html",
-            "url": "https://doehae.github.io/eonienei.html",
+            "id": "https://doehae.github.io/eonienei/",
+            "url": "https://doehae.github.io/eonienei/",
             "title": "zzz",
             "summary": ":) :( :) :( :)",
             "content_html": "<p>:) :( :) :( :)</p>",
