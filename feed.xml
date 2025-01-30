@@ -3,12 +3,32 @@
     <title>Museo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-01-30T18:30:53+01:00</updated>
+    <updated>2025-01-30T18:53:41+01:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>ayup</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/ayup/"/>
+        <id>https://doehae.github.io/ayup/</id>
+
+        <updated>2025-01-30T18:53:41+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://doehae.github.io/media/posts/4/blackie1.jpg" height="2560" width="1920" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/4/responsive/blackie1-xs.jpg 320w ,https://doehae.github.io/media/posts/4/responsive/blackie1-sm.jpg 480w ,https://doehae.github.io/media/posts/4/responsive/blackie1-md.jpg 768w ,https://doehae.github.io/media/posts/4/responsive/blackie1-xl.jpg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gallery</title>
         <author>
