@@ -3,12 +3,32 @@
     <title>Museo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-01-30T18:53:41+01:00</updated>
+    <updated>2025-02-02T00:20:25+01:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>Hog</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/hog/"/>
+        <id>https://doehae.github.io/hog/</id>
+
+        <updated>2025-02-02T00:20:25+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://doehae.github.io/media/posts/5/hogspaghet.jpg" height="3000" width="4496" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/5/responsive/hogspaghet-xs.jpg 320w ,https://doehae.github.io/media/posts/5/responsive/hogspaghet-sm.jpg 480w ,https://doehae.github.io/media/posts/5/responsive/hogspaghet-md.jpg 768w ,https://doehae.github.io/media/posts/5/responsive/hogspaghet-xl.jpg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ayup</title>
         <author>
