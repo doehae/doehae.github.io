@@ -3,12 +3,54 @@
     <title>Museo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-02-02T00:20:25+01:00</updated>
+    <updated>2025-04-05T20:23:12+02:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>Birds!</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/birds-2/"/>
+        <id>https://doehae.github.io/birds-2/</id>
+
+        <updated>2025-04-05T20:23:05+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Birds!</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/birds/"/>
+        <id>https://doehae.github.io/birds/</id>
+
+        <updated>2025-04-05T20:19:28+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hog</title>
         <author>
