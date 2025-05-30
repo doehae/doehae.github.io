@@ -3,12 +3,56 @@
     <title>Museo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-05-30T10:45:51+02:00</updated>
+    <updated>2025-05-30T10:52:52+02:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>arst</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/arst/"/>
+        <id>https://doehae.github.io/arst/</id>
+
+        <updated>2025-05-30T10:51:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    arst
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    arst
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" height="" width="" alt=""  data-is-external-image="true">
+      
+    </figure>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/10/gallery/uhr-netzanschluss.jpg" data-size="340x512">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/10/gallery/uhr-netzanschluss-thumbnail.jpg" height="512" width="340" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/10/gallery/Acme_anvil.gif" data-size="513x432">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/10/gallery/Acme_anvil.gif" height="432" width="513" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>iludiud</title>
         <author>
