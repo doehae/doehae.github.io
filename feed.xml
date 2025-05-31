@@ -3,12 +3,32 @@
     <title>Museo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-05-31T19:17:31+02:00</updated>
+    <updated>2025-05-31T19:37:50+02:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>Great Spotted Woodpecker</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/great-spotted-woodpecker/"/>
+        <id>https://doehae.github.io/great-spotted-woodpecker/</id>
+
+        <updated>2025-05-31T19:37:50+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://doehae.github.io/media/posts/12/woodpecker-spotted1.JPG" height="2000" width="3000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-xs.JPG 320w ,https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-sm.JPG 480w ,https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-md.JPG 768w ,https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-xl.JPG 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Winter Seagull</title>
         <author>
