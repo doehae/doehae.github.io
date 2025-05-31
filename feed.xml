@@ -3,58 +3,34 @@
     <title>Museo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-05-30T10:52:52+02:00</updated>
+    <updated>2025-05-31T19:17:31+02:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
     <entry>
-        <title>arst</title>
+        <title>Winter Seagull</title>
         <author>
             <name>zz</name>
         </author>
-        <link href="https://doehae.github.io/arst/"/>
-        <id>https://doehae.github.io/arst/</id>
+        <link href="https://doehae.github.io/winter-seagull/"/>
+        <id>https://doehae.github.io/winter-seagull/</id>
 
-        <updated>2025-05-30T10:51:17+02:00</updated>
-            <summary>
-                <![CDATA[
-                    arst
-                ]]>
-            </summary>
+        <updated>2025-05-31T19:17:31+02:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
-  <p>
-    arst
-  </p>
-
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="" width="" alt=""  data-is-external-image="true">
+      <img loading="lazy" src="https://doehae.github.io/media/posts/11/seagull.JPG" height="4000" width="6000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/11/responsive/seagull-xs.JPG 320w ,https://doehae.github.io/media/posts/11/responsive/seagull-sm.JPG 480w ,https://doehae.github.io/media/posts/11/responsive/seagull-md.JPG 768w ,https://doehae.github.io/media/posts/11/responsive/seagull-xl.JPG 1024w">
       
     </figure>
-
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://doehae.github.io/media/posts/10/gallery/uhr-netzanschluss.jpg" data-size="340x512">
-        <img loading="lazy" src="https://doehae.github.io/media/posts/10/gallery/uhr-netzanschluss-thumbnail.jpg" height="512" width="340" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://doehae.github.io/media/posts/10/gallery/Acme_anvil.gif" data-size="513x432">
-        <img loading="lazy" src="https://doehae.github.io/media/posts/10/gallery/Acme_anvil.gif" height="432" width="513" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>iludiud</title>
+        <title>Egyptian Geese</title>
         <author>
             <name>zz</name>
         </author>
@@ -62,22 +38,23 @@
         <id>https://doehae.github.io/iludiud/</id>
 
         <updated>2025-05-30T10:45:51+02:00</updated>
-            <summary>
-                <![CDATA[
-                    ienkouy
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    ienkouy
+    
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://doehae.github.io/media/posts/9/geese-egyptian.jpg" height="1333" width="2000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/9/responsive/geese-egyptian-xs.jpg 320w ,https://doehae.github.io/media/posts/9/responsive/geese-egyptian-sm.jpg 480w ,https://doehae.github.io/media/posts/9/responsive/geese-egyptian-md.jpg 768w ,https://doehae.github.io/media/posts/9/responsive/geese-egyptian-xl.jpg 1024w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Hog</title>
+        <title>Hogs</title>
         <author>
             <name>zz</name>
         </author>
@@ -97,7 +74,7 @@
         </content>
     </entry>
     <entry>
-        <title>ayup</title>
+        <title>Mallards on Ice</title>
         <author>
             <name>zz</name>
         </author>
@@ -110,7 +87,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://doehae.github.io/media/posts/4/blackie1.jpg" height="2560" width="1920" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/4/responsive/blackie1-xs.jpg 320w ,https://doehae.github.io/media/posts/4/responsive/blackie1-sm.jpg 480w ,https://doehae.github.io/media/posts/4/responsive/blackie1-md.jpg 768w ,https://doehae.github.io/media/posts/4/responsive/blackie1-xl.jpg 1024w">
+      <img loading="lazy" src="https://doehae.github.io/media/posts/4/mallards-quack.JPG" height="4000" width="6000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/4/responsive/mallards-quack-xs.JPG 320w ,https://doehae.github.io/media/posts/4/responsive/mallards-quack-sm.JPG 480w ,https://doehae.github.io/media/posts/4/responsive/mallards-quack-md.JPG 768w ,https://doehae.github.io/media/posts/4/responsive/mallards-quack-xl.JPG 1024w">
       
     </figure>
             ]]>
@@ -161,26 +138,6 @@
   <p>
     
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>zzz</title>
-        <author>
-            <name>zz</name>
-        </author>
-        <link href="https://doehae.github.io/eonienei/"/>
-        <id>https://doehae.github.io/eonienei/</id>
-
-        <updated>2025-01-30T17:30:50+01:00</updated>
-            <summary>
-                <![CDATA[
-                    :) :( :) :( :)
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>:) :( :) :( :)</p>
             ]]>
         </content>
     </entry>
