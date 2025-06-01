@@ -27,13 +27,14 @@
             "url": "https://doehae.github.io/mouse/",
             "title": "Mouse",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/13/DSC_0159.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/13/responsive/DSC_0159-xs.JPG 320w ,https://doehae.github.io/media/posts/13/responsive/DSC_0159-sm.JPG 480w ,https://doehae.github.io/media/posts/13/responsive/DSC_0159-md.JPG 768w ,https://doehae.github.io/media/posts/13/responsive/DSC_0159-xl.JPG 1024w\">\n      \n    </figure>",
+            "image": "https://doehae.github.io/media/posts/13/mouse.JPG",
             "author": {
                 "name": "zz"
             },
             "tags": [
             ],
             "date_published": "2025-06-01T21:11:43+02:00",
-            "date_modified": "2025-06-01T21:11:43+02:00"
+            "date_modified": "2025-06-01T21:23:37+02:00"
         },
         {
             "id": "https://doehae.github.io/great-spotted-woodpecker/",

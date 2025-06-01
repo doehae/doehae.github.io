@@ -3,7 +3,7 @@
     <title>Museo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-06-01T21:13:29+02:00</updated>
+    <updated>2025-06-01T21:23:37+02:00</updated>
     <author>
         <name>zz</name>
     </author>
@@ -56,11 +56,13 @@
         </author>
         <link href="https://doehae.github.io/mouse/"/>
         <id>https://doehae.github.io/mouse/</id>
+        <media:content url="https://doehae.github.io/media/posts/13/mouse.JPG" medium="image" />
 
         <updated>2025-06-01T21:11:43+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/13/mouse.JPG" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://doehae.github.io/media/posts/13/DSC_0159.JPG" height="2000" width="3000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/13/responsive/DSC_0159-xs.JPG 320w ,https://doehae.github.io/media/posts/13/responsive/DSC_0159-sm.JPG 480w ,https://doehae.github.io/media/posts/13/responsive/DSC_0159-md.JPG 768w ,https://doehae.github.io/media/posts/13/responsive/DSC_0159-xl.JPG 1024w">
