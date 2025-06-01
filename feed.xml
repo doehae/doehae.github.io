@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Museo</title>
+    <title>veo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-06-01T21:23:37+02:00</updated>
+    <updated>2025-06-01T21:28:36+02:00</updated>
     <author>
         <name>zz</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://doehae.github.io/lizards/"/>
         <id>https://doehae.github.io/lizards/</id>
+        <media:content url="https://doehae.github.io/media/posts/14/lizard2.JPG" medium="image" />
 
         <updated>2025-06-01T21:13:29+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/14/lizard2.JPG" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
@@ -78,11 +80,14 @@
         </author>
         <link href="https://doehae.github.io/great-spotted-woodpecker/"/>
         <id>https://doehae.github.io/great-spotted-woodpecker/</id>
+        <media:content url="https://doehae.github.io/media/posts/12/woodpecker-spotted1-md.JPG" medium="image" />
+            <category term="birds"/>
 
         <updated>2025-05-31T19:37:50+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/12/woodpecker-spotted1-md.JPG" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://doehae.github.io/media/posts/12/woodpecker-spotted1.JPG" height="2000" width="3000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-xs.JPG 320w ,https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-sm.JPG 480w ,https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-md.JPG 768w ,https://doehae.github.io/media/posts/12/responsive/woodpecker-spotted1-xl.JPG 1024w">
@@ -98,11 +103,14 @@
         </author>
         <link href="https://doehae.github.io/winter-seagull/"/>
         <id>https://doehae.github.io/winter-seagull/</id>
+        <media:content url="https://doehae.github.io/media/posts/11/seagull-md.JPG" medium="image" />
+            <category term="birds"/>
 
         <updated>2025-05-31T19:17:31+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/11/seagull-md.JPG" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://doehae.github.io/media/posts/11/seagull.JPG" height="4000" width="6000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/11/responsive/seagull-xs.JPG 320w ,https://doehae.github.io/media/posts/11/responsive/seagull-sm.JPG 480w ,https://doehae.github.io/media/posts/11/responsive/seagull-md.JPG 768w ,https://doehae.github.io/media/posts/11/responsive/seagull-xl.JPG 1024w">
@@ -118,11 +126,14 @@
         </author>
         <link href="https://doehae.github.io/iludiud/"/>
         <id>https://doehae.github.io/iludiud/</id>
+        <media:content url="https://doehae.github.io/media/posts/9/geese-egyptian-md.jpg" medium="image" />
+            <category term="birds"/>
 
         <updated>2025-05-30T10:45:51+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/9/geese-egyptian-md.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     
@@ -142,11 +153,13 @@
         </author>
         <link href="https://doehae.github.io/hog/"/>
         <id>https://doehae.github.io/hog/</id>
+        <media:content url="https://doehae.github.io/media/posts/5/hogspaghet-md.jpg" medium="image" />
 
         <updated>2025-02-02T00:20:25+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/5/hogspaghet-md.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://doehae.github.io/media/posts/5/hogspaghet.jpg" height="3000" width="4496" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/5/responsive/hogspaghet-xs.jpg 320w ,https://doehae.github.io/media/posts/5/responsive/hogspaghet-sm.jpg 480w ,https://doehae.github.io/media/posts/5/responsive/hogspaghet-md.jpg 768w ,https://doehae.github.io/media/posts/5/responsive/hogspaghet-xl.jpg 1024w">
@@ -162,11 +175,14 @@
         </author>
         <link href="https://doehae.github.io/ayup/"/>
         <id>https://doehae.github.io/ayup/</id>
+        <media:content url="https://doehae.github.io/media/posts/4/mallards-quack-md.JPG" medium="image" />
+            <category term="birds"/>
 
         <updated>2025-01-30T18:53:41+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/4/mallards-quack-md.JPG" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://doehae.github.io/media/posts/4/mallards-quack.JPG" height="4000" width="6000" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/4/responsive/mallards-quack-xs.JPG 320w ,https://doehae.github.io/media/posts/4/responsive/mallards-quack-sm.JPG 480w ,https://doehae.github.io/media/posts/4/responsive/mallards-quack-md.JPG 768w ,https://doehae.github.io/media/posts/4/responsive/mallards-quack-xl.JPG 1024w">
