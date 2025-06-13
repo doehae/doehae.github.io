@@ -41,7 +41,7 @@
             "id": "https://doehae.github.io/bird-5/",
             "url": "https://doehae.github.io/bird-5/",
             "title": "Bird 5",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/23/DSC_0883.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/23/responsive/DSC_0883-xs.JPG 320w ,https://doehae.github.io/media/posts/23/responsive/DSC_0883-sm.JPG 480w ,https://doehae.github.io/media/posts/23/responsive/DSC_0883-md.JPG 768w ,https://doehae.github.io/media/posts/23/responsive/DSC_0883-xl.JPG 1024w\">\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/23/DSC_0883-2.JPG",
             "author": {
                 "name": "zz"
@@ -49,13 +49,13 @@
             "tags": [
             ],
             "date_published": "2025-06-13T19:56:23+02:00",
-            "date_modified": "2025-06-13T19:56:23+02:00"
+            "date_modified": "2025-06-13T20:04:16+02:00"
         },
         {
             "id": "https://doehae.github.io/deer/",
             "url": "https://doehae.github.io/deer/",
             "title": "Deer",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/22/DSC_0622.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/22/responsive/DSC_0622-xs.JPG 320w ,https://doehae.github.io/media/posts/22/responsive/DSC_0622-sm.JPG 480w ,https://doehae.github.io/media/posts/22/responsive/DSC_0622-md.JPG 768w ,https://doehae.github.io/media/posts/22/responsive/DSC_0622-xl.JPG 1024w\">\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/22/DSC_0622-2.JPG",
             "author": {
                 "name": "zz"
@@ -63,13 +63,13 @@
             "tags": [
             ],
             "date_published": "2025-06-13T19:55:02+02:00",
-            "date_modified": "2025-06-13T19:55:02+02:00"
+            "date_modified": "2025-06-13T20:04:23+02:00"
         },
         {
             "id": "https://doehae.github.io/peregrine-falcon/",
             "url": "https://doehae.github.io/peregrine-falcon/",
             "title": "Peregrine falcon",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/21/DSC_0527.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/21/responsive/DSC_0527-xs.JPG 320w ,https://doehae.github.io/media/posts/21/responsive/DSC_0527-sm.JPG 480w ,https://doehae.github.io/media/posts/21/responsive/DSC_0527-md.JPG 768w ,https://doehae.github.io/media/posts/21/responsive/DSC_0527-xl.JPG 1024w\">\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/21/DSC_0527-2.JPG",
             "author": {
                 "name": "zz"
@@ -77,13 +77,13 @@
             "tags": [
             ],
             "date_published": "2025-06-13T19:54:18+02:00",
-            "date_modified": "2025-06-13T19:54:18+02:00"
+            "date_modified": "2025-06-13T20:04:29+02:00"
         },
         {
             "id": "https://doehae.github.io/bird-4/",
             "url": "https://doehae.github.io/bird-4/",
             "title": "Bird 4",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/20/DSC_0471.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/20/responsive/DSC_0471-xs.JPG 320w ,https://doehae.github.io/media/posts/20/responsive/DSC_0471-sm.JPG 480w ,https://doehae.github.io/media/posts/20/responsive/DSC_0471-md.JPG 768w ,https://doehae.github.io/media/posts/20/responsive/DSC_0471-xl.JPG 1024w\">\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/20/DSC_0471-2.JPG",
             "author": {
                 "name": "zz"
@@ -91,13 +91,13 @@
             "tags": [
             ],
             "date_published": "2025-06-13T19:53:28+02:00",
-            "date_modified": "2025-06-13T19:53:28+02:00"
+            "date_modified": "2025-06-13T20:04:36+02:00"
         },
         {
             "id": "https://doehae.github.io/bird-3/",
             "url": "https://doehae.github.io/bird-3/",
             "title": "Bird 3",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/19/DSC_0236.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/19/responsive/DSC_0236-xs.JPG 320w ,https://doehae.github.io/media/posts/19/responsive/DSC_0236-sm.JPG 480w ,https://doehae.github.io/media/posts/19/responsive/DSC_0236-md.JPG 768w ,https://doehae.github.io/media/posts/19/responsive/DSC_0236-xl.JPG 1024w\">\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/19/DSC_0236-2.JPG",
             "author": {
                 "name": "zz"
@@ -105,13 +105,13 @@
             "tags": [
             ],
             "date_published": "2025-06-13T19:52:07+02:00",
-            "date_modified": "2025-06-13T19:52:07+02:00"
+            "date_modified": "2025-06-13T20:04:43+02:00"
         },
         {
             "id": "https://doehae.github.io/cygnets/",
             "url": "https://doehae.github.io/cygnets/",
             "title": "Cygnets",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/18/DSC_0115.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/18/responsive/DSC_0115-xs.JPG 320w ,https://doehae.github.io/media/posts/18/responsive/DSC_0115-sm.JPG 480w ,https://doehae.github.io/media/posts/18/responsive/DSC_0115-md.JPG 768w ,https://doehae.github.io/media/posts/18/responsive/DSC_0115-xl.JPG 1024w\">\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/18/DSC_0115-2.JPG",
             "author": {
                 "name": "zz"
@@ -119,7 +119,7 @@
             "tags": [
             ],
             "date_published": "2025-06-13T19:50:28+02:00",
-            "date_modified": "2025-06-13T19:50:28+02:00"
+            "date_modified": "2025-06-13T20:04:50+02:00"
         },
         {
             "id": "https://doehae.github.io/bird-2/",
@@ -139,7 +139,7 @@
             "id": "https://doehae.github.io/herons/",
             "url": "https://doehae.github.io/herons/",
             "title": "Herons",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://doehae.github.io/media/posts/16/DSC_0042.JPG\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://doehae.github.io/media/posts/16/responsive/DSC_0042-xs.JPG 320w ,https://doehae.github.io/media/posts/16/responsive/DSC_0042-sm.JPG 480w ,https://doehae.github.io/media/posts/16/responsive/DSC_0042-md.JPG 768w ,https://doehae.github.io/media/posts/16/responsive/DSC_0042-xl.JPG 1024w\">\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/16/DSC_0042-2.JPG",
             "author": {
                 "name": "zz"
@@ -147,7 +147,7 @@
             "tags": [
             ],
             "date_published": "2025-06-13T19:48:55+02:00",
-            "date_modified": "2025-06-13T19:48:55+02:00"
+            "date_modified": "2025-06-13T20:05:03+02:00"
         }
     ]
 }
