@@ -42,7 +42,7 @@
         {
             "id": "https://doehae.github.io/bird-5/",
             "url": "https://doehae.github.io/bird-5/",
-            "title": "Bird 5",
+            "title": "Red-backed shrike",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
             "image": "https://doehae.github.io/media/posts/23/DSC_0883-2.JPG",
             "author": {
@@ -52,7 +52,7 @@
                    "birds"
             ],
             "date_published": "2025-06-13T19:56:23+02:00",
-            "date_modified": "2025-06-13T20:08:56+02:00"
+            "date_modified": "2025-06-15T11:51:36+02:00"
         },
         {
             "id": "https://doehae.github.io/deer/",
