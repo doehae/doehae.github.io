@@ -3,12 +3,34 @@
     <title>veo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-07-04T18:55:22+02:00</updated>
+    <updated>2025-07-04T21:35:24+02:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>Fox</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/fox/"/>
+        <id>https://doehae.github.io/fox/</id>
+        <media:content url="https://doehae.github.io/media/posts/26/fox_2025-06-17_16-13-35.jpg" medium="image" />
+
+        <updated>2025-07-04T21:35:24+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/26/fox_2025-06-17_16-13-35.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://doehae.github.io/media/posts/26/fox_2025-06-17_16-13-41.jpg" height="1706" width="2560" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-xs.jpg 320w ,https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-sm.jpg 480w ,https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-md.jpg 768w ,https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-xl.jpg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Heron</title>
         <author>
@@ -211,48 +233,6 @@
       <img loading="lazy" src="" height="2000" width="3000" alt=""  data-is-external-image="true">
       
     </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sand Lizards</title>
-        <author>
-            <name>zz</name>
-        </author>
-        <link href="https://doehae.github.io/lizards/"/>
-        <id>https://doehae.github.io/lizards/</id>
-        <media:content url="https://doehae.github.io/media/posts/14/lizard2.JPG" medium="image" />
-
-        <updated>2025-06-01T21:13:29+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://doehae.github.io/media/posts/14/lizard2.JPG" class="type:primaryImage" alt="" /></p>
-                
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://doehae.github.io/media/posts/14/gallery/DSC_0228.JPG" data-size="3000x2000">
-        <img loading="lazy" src="https://doehae.github.io/media/posts/14/gallery/DSC_0228-thumbnail.JPG" height="512" width="768" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://doehae.github.io/media/posts/14/gallery/DSC_0274.JPG" data-size="3000x2000">
-        <img loading="lazy" src="https://doehae.github.io/media/posts/14/gallery/DSC_0274-thumbnail.JPG" height="512" width="768" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://doehae.github.io/media/posts/14/gallery/DSC_0326.JPG" data-size="3000x2000">
-        <img loading="lazy" src="https://doehae.github.io/media/posts/14/gallery/DSC_0326-thumbnail.JPG" height="512" width="768" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
