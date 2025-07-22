@@ -3,12 +3,88 @@
     <title>veo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-07-04T21:35:24+02:00</updated>
+    <updated>2025-07-22T22:40:49+02:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>(Fe)Male</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/female/"/>
+        <id>https://doehae.github.io/female/</id>
+        <media:content url="https://doehae.github.io/media/posts/29/11.jpg" medium="image" />
+            <category term="birds"/>
+
+        <updated>2025-07-22T22:40:49+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/29/11.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/29/gallery/11.jpg" data-size="1150x766">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/29/gallery/11-thumbnail.jpg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/29/gallery/12.jpg" data-size="805x536">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/29/gallery/12-thumbnail.jpg" height="511" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Queen of Spain fritillary</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/queen-of-spain-fritillary/"/>
+        <id>https://doehae.github.io/queen-of-spain-fritillary/</id>
+        <media:content url="https://doehae.github.io/media/posts/28/frit.jpg" medium="image" />
+
+        <updated>2025-07-22T22:35:23+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/28/frit.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Horse</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/horse/"/>
+        <id>https://doehae.github.io/horse/</id>
+        <media:content url="https://doehae.github.io/media/posts/27/DSC_0888-DxO_DeepPRIME-XD2s_XD.jpg" medium="image" />
+
+        <updated>2025-07-22T22:33:56+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/27/DSC_0888-DxO_DeepPRIME-XD2s_XD.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fox</title>
         <author>
@@ -159,75 +235,6 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://doehae.github.io/media/posts/20/DSC_0471-2.JPG" class="type:primaryImage" alt="" /></p>
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="2000" width="3000" alt=""  data-is-external-image="true">
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Eurasian skylark</title>
-        <author>
-            <name>zz</name>
-        </author>
-        <link href="https://doehae.github.io/bird-3/"/>
-        <id>https://doehae.github.io/bird-3/</id>
-        <media:content url="https://doehae.github.io/media/posts/19/DSC_0236-2.JPG" medium="image" />
-            <category term="birds"/>
-
-        <updated>2025-06-13T19:52:07+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://doehae.github.io/media/posts/19/DSC_0236-2.JPG" class="type:primaryImage" alt="" /></p>
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="2000" width="3000" alt=""  data-is-external-image="true">
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cygnets</title>
-        <author>
-            <name>zz</name>
-        </author>
-        <link href="https://doehae.github.io/cygnets/"/>
-        <id>https://doehae.github.io/cygnets/</id>
-        <media:content url="https://doehae.github.io/media/posts/18/DSC_0115-2.JPG" medium="image" />
-            <category term="birds"/>
-
-        <updated>2025-06-13T19:50:28+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://doehae.github.io/media/posts/18/DSC_0115-2.JPG" class="type:primaryImage" alt="" /></p>
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="2000" width="3000" alt=""  data-is-external-image="true">
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Herons</title>
-        <author>
-            <name>zz</name>
-        </author>
-        <link href="https://doehae.github.io/herons/"/>
-        <id>https://doehae.github.io/herons/</id>
-        <media:content url="https://doehae.github.io/media/posts/16/DSC_0042-2.JPG" medium="image" />
-            <category term="birds"/>
-
-        <updated>2025-06-13T19:48:55+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://doehae.github.io/media/posts/16/DSC_0042-2.JPG" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="" height="2000" width="3000" alt=""  data-is-external-image="true">
