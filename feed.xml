@@ -3,12 +3,34 @@
     <title>veo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-07-22T22:40:49+02:00</updated>
+    <updated>2025-07-22T22:46:05+02:00</updated>
     <author>
         <name>zz</name>
     </author>
     <id>https://doehae.github.io</id>
 
+    <entry>
+        <title>Eurasian Goldfinch</title>
+        <author>
+            <name>zz</name>
+        </author>
+        <link href="https://doehae.github.io/eurasian-goldfinch/"/>
+        <id>https://doehae.github.io/eurasian-goldfinch/</id>
+        <media:content url="https://doehae.github.io/media/posts/30/gold.jpg" medium="image" />
+            <category term="birds"/>
+
+        <updated>2025-07-22T22:46:05+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://doehae.github.io/media/posts/30/gold.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>(Fe)Male</title>
         <author>
@@ -212,29 +234,6 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://doehae.github.io/media/posts/21/DSC_0527-2.JPG" class="type:primaryImage" alt="" /></p>
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="2000" width="3000" alt=""  data-is-external-image="true">
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Black redstart</title>
-        <author>
-            <name>zz</name>
-        </author>
-        <link href="https://doehae.github.io/bird-4/"/>
-        <id>https://doehae.github.io/bird-4/</id>
-        <media:content url="https://doehae.github.io/media/posts/20/DSC_0471-2.JPG" medium="image" />
-            <category term="birds"/>
-
-        <updated>2025-06-13T19:53:28+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://doehae.github.io/media/posts/20/DSC_0471-2.JPG" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="" height="2000" width="3000" alt=""  data-is-external-image="true">

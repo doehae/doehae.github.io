@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://doehae.github.io/eurasian-goldfinch/",
+            "url": "https://doehae.github.io/eurasian-goldfinch/",
+            "title": "Eurasian Goldfinch",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://doehae.github.io/media/posts/30/gold.jpg",
+            "author": {
+                "name": "zz"
+            },
+            "tags": [
+                   "birds"
+            ],
+            "date_published": "2025-07-22T22:46:05+02:00",
+            "date_modified": "2025-07-22T22:46:05+02:00"
+        },
+        {
             "id": "https://doehae.github.io/female/",
             "url": "https://doehae.github.io/female/",
             "title": "(Fe)Male",
@@ -139,21 +154,6 @@
             ],
             "date_published": "2025-06-13T19:54:18+02:00",
             "date_modified": "2025-06-13T20:08:47+02:00"
-        },
-        {
-            "id": "https://doehae.github.io/bird-4/",
-            "url": "https://doehae.github.io/bird-4/",
-            "title": "Black redstart",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"2000\" width=\"3000\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
-            "image": "https://doehae.github.io/media/posts/20/DSC_0471-2.JPG",
-            "author": {
-                "name": "zz"
-            },
-            "tags": [
-                   "birds"
-            ],
-            "date_published": "2025-06-13T19:53:28+02:00",
-            "date_modified": "2025-07-04T18:53:23+02:00"
         }
     ]
 }
