@@ -3,7 +3,7 @@
     <title>veo</title>
     <link href="https://doehae.github.io/feed.xml" rel="self" />
     <link href="https://doehae.github.io" />
-    <updated>2025-07-22T22:46:05+02:00</updated>
+    <updated>2025-07-25T17:28:20+02:00</updated>
     <author>
         <name>zz</name>
     </author>
@@ -126,6 +126,22 @@
       <img loading="lazy" src="https://doehae.github.io/media/posts/26/fox_2025-06-17_16-13-41.jpg" height="1706" width="2560" alt=""  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-xs.jpg 320w ,https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-sm.jpg 480w ,https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-md.jpg 768w ,https://doehae.github.io/media/posts/26/responsive/fox_2025-06-17_16-13-41-xl.jpg 1024w">
       
     </figure>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/26/gallery/fox11.jpg" data-size="640x426">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/26/gallery/fox11-thumbnail.jpg" height="426" width="640" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://doehae.github.io/media/posts/26/gallery/fox12.jpg" data-size="396x594">
+        <img loading="lazy" src="https://doehae.github.io/media/posts/26/gallery/fox12-thumbnail.jpg" height="594" width="396" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
